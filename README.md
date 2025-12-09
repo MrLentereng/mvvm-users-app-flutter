@@ -9,6 +9,7 @@
 ## 2. Структура проєкту
 
 lib/
+
   models/
     user.dart
   viewmodels/
