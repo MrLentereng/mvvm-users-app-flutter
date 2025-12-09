@@ -9,20 +9,20 @@
 ## 2. Структура проєкту
 
 lib/
-|  models/
-|    user.dart
-|  viewmodels/
-|    users_view_model.dart
-|    theme_view_model.dart
-|  services/
-|    user_storage_service.dart
-|    theme_storage_service.dart
-|    image_service.dart
-|  views/
-|    home_screen.dart
-|  widgets/
-|    users_list.dart
-|    user_form.dart
+  models/
+    user.dart
+  viewmodels/
+    users_view_model.dart
+    theme_view_model.dart
+  services/
+    user_storage_service.dart
+    theme_storage_service.dart
+    image_service.dart
+  views/
+    home_screen.dart
+  widgets/
+    users_list.dart
+    user_form.dart
 
 
 
